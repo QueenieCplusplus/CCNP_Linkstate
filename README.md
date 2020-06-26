@@ -15,5 +15,7 @@ Link-State
 
 3. 維護路徑, Maintanance
 
+https://github.com/QueenieCplusplus/CCNP_IGRP/blob/master/README.md#觸發更新
+
 
 
