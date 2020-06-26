@@ -1,2 +1,2 @@
-# CCNP_Linkstate
+# CCNP Linkstate
 Link-State
