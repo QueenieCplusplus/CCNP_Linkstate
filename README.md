@@ -23,6 +23,6 @@ https://github.com/QueenieCplusplus/CCNP_IGRP/blob/master/README.md#觸發更新
 
 * 預設距離值
 
-https://github.com/QueenieCplusplus/CCNP_IGRP#預設的距離值
+https://github.com/QueenieCplusplus/CCNP_IGRP#預設的距離值 （110、115）
 
 
