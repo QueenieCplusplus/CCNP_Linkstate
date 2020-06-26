@@ -21,4 +21,8 @@ https://github.com/QueenieCplusplus/CCNP_IGRP/blob/master/README.md#觸發更新
 
 倘若無異常狀態促使觸發更新，則路由表會預設時間從半小時至兩小時自動更新。
 
+* 預設距離值
+
+https://github.com/QueenieCplusplus/CCNP_IGRP#預設的距離值
+
 
